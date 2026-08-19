@@ -11,6 +11,7 @@ function addTask(task){
 <template>
     <div class="app-container">
     <h1>Todo project</h1>
+    <h2> hello world </h2>
     <TaskForm/>
     <TaskList/>
     </div>
@@ -30,5 +31,10 @@ function addTask(task){
 h1 {
   font-size: 24px;
   color: #ffffff;
+}
+h2 {
+  font-size: 14px;
+  color: #a3s3d4f
+  
 }
 </style>
